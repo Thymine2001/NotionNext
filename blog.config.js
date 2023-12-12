@@ -19,8 +19,8 @@ const BLOG = {
 
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || 'Thymine', // 您的昵称 例如 tangly1024
   BIO: process.env.NEXT_PUBLIC_BIO || '一个普通的干饭人🍚', // 作者简介
-  LINK: process.env.NEXT_PUBLIC_LINK || 'https://tangly1024.com', // 网站地址
-  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || 'Notion, 博客', // 网站关键词 英文逗号隔开
+  LINK: process.env.NEXT_PUBLIC_LINK || 'https://notion-next-plum-sigma-91.vercel.app/Thymine%E2%80%99s%20Blog%20%7C%20%E8%BF%99%E9%87%8C%E6%98%AFThymine%E6%90%AD%E5%BB%BA%E7%9A%84%E5%8D%9A%E5%AE%A2%20(notion-next-plum-sigma-91.vercel.app)', // 网站地址
+  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || 'Thymine's blog, 博客', // 网站关键词 英文逗号隔开
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: process.env.NEXT_PUBLIC_CONTACT_EMAIL || '', // 邮箱地址 例如mail@tangly1024.com
